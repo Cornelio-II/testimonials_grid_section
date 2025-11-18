@@ -51,7 +51,9 @@ img{
    object-position: top center; /* Centers images within their containers */
    border-radius: 50rem; /* 6px for internationalization */
 }
+
 .wrapper {
+    display: grid;
     max-inline-size: 1200px; /*max-width: 100% for internationalization approach*/
     padding: clamp(1.5rem, 1.5rem + 1.5vw, 2rem);
     gap: 1rem;

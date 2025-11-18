@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials Grid Section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials Grid Section challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/challenge/65e71e1c17e502f0b6ce64b3/start). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](./public/design/preview.jpg)
 
 
 ### Links
 
 - Solution URL: [testimonials_grid_section](https://github.com/Cornelio-II/testimonials_grid_section)
-- Live Site URL: [testimonials_grid_section](https://cornelio-ii.github.io/four-card-feature-section/)
+- Live Site URL: [testimonials_grid_section](https://cornelio-ii.github.io/testimonials_grid_section/)
 
 ## My process
 
@@ -104,7 +104,7 @@ I’d love to hear your thoughts and suggestions about this project! Whether it�
 
 ### Here’s how you can provide feedback:
 
-1. **Report an Issue**: If you encounter a bug or problem, please [open an issue](https://github.com/Cornelio-II/four-card-feature-section/issues).
+1. **Report an Issue**: If you encounter a bug or problem, please [open an issue](https://github.com/Cornelio-II/testimonials_grid_section/issues).
 2. **Feature Requests**: Have an idea for improvement? Let us know by creating a feature request.
 3. **Email Us**: Prefer direct communication? Feel free to send your feedback to [https://bsky.app/profile/cornelio30.bsky.social](https://bsky.app/profile/cornelio30.bsky.social).
 
