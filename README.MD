@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Four card section](https://github.com/Cornelio-II/four-card-feature-section)
-- Live Site URL: [Four card section](https://cornelio-ii.github.io/four-card-feature-section/)
+- Solution URL: [testimonials_grid_section](https://github.com/Cornelio-II/testimonials_grid_section)
+- Live Site URL: [testimonials_grid_section](https://cornelio-ii.github.io/four-card-feature-section/)
 
 ## My process
 
