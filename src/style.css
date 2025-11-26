@@ -62,10 +62,12 @@ img{
 
 .attribution { 
     font-size: var(--fluid-11-12); 
+    margin: clamp(1rem, 1rem + 0.5vw, 1.2rem);
 }
 
 .attribution a { color: inherit; }
 a:hover{text-decoration: none; font-weight: 600;}
+
 
 .cards{
     padding: clamp(1.5rem, 1.5rem + 0.5vw, 2rem);
